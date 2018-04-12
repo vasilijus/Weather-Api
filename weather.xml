@@ -1,0 +1,700 @@
+
+<response>
+	<version>0.1</version>
+	<termsofService>http://www.wunderground.com/weather/api/d/terms.html</termsofService>
+	<features>
+		<feature>forecast</feature>
+		<feature>geolookup</feature>
+	</features>
+		<location>
+		<type>INTLCITY</type>
+		<country>DL</country>
+		<country_iso3166>DE</country_iso3166>
+		<country_name>Germany</country_name>
+		<state>BE</state>
+		<city>Berlin</city>
+		<tz_short>CEST</tz_short>
+		<tz_long>Europe/Berlin</tz_long>
+		<lat>52.52000046</lat>
+		<lon>13.40999985</lon>
+		<zip>00000</zip>
+		<magic>46</magic>
+		<wmo>10389</wmo>
+		<l>/q/zmw:00000.46.10389</l>
+		<requesturl>global/stations/10389.html</requesturl>
+		<wuiurl>http://www.wunderground.com/global/stations/10389.html</wuiurl>
+		<nearby_weather_stations>
+		<airport>
+		<station>
+		<city></city>
+		<state></state>
+		<country></country>
+		<icao></icao>
+		<lat></lat>
+		<lon></lon>
+		</station>
+		</airport>
+		<pws>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN1233</id>
+  <lat>52.522186</lat>
+  <lon>13.409331</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN1636</id>
+  <lat>52.522186</lat>
+  <lon>13.409331</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin Mitte</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEBERLI388</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin Mitte</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEBERLI390</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN1370</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN1656</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN310</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN410</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Karl-Liebknecht-Straße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN79</id>
+  <lat>52.520008</lat>
+  <lon>13.404954</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DL</country>
+		<id>IBERLIN1560</id>
+  <lat>52.522243</lat>
+  <lon>13.405841</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEBERLI384</id>
+  <lat>52.515499</lat>
+  <lon>13.406200</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Weinmeisterstraße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DL</country>
+		<id>IBERLIN1335</id>
+  <lat>52.524963</lat>
+  <lon>13.406071</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin Mitte</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEBERLI12</id>
+  <lat>52.517746</lat>
+  <lon>13.401373</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEBERLI373</id>
+  <lat>52.525925</lat>
+  <lon>13.408533</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Märkisches Ufer</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN2136</id>
+  <lat>52.513721</lat>
+  <lon>13.413112</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Berlin Mitte</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEBERLI13</id>
+  <lat>52.516701</lat>
+  <lon>13.400000</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Schloßplatz</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN1107</id>
+  <lat>52.516701</lat>
+  <lon>13.400000</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Schloßplatz</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN1488</id>
+  <lat>52.516701</lat>
+  <lon>13.400000</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Schloßplatz</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN70</id>
+  <lat>52.516701</lat>
+  <lon>13.400000</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Schloßplatz</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN809</id>
+  <lat>52.516701</lat>
+  <lon>13.400000</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Berlin</neighborhood>
+		<city>Prenzlauer Berg Bezirk</city>
+		<state>BE</state>
+		<country>DL</country>
+		<id>IBEPRENZ32</id>
+  <lat>52.527000</lat>
+  <lon>13.409898</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		<station>
+		<neighborhood>Inselstraße</neighborhood>
+		<city>Berlin</city>
+		<state></state>
+		<country>DE</country>
+		<id>IBERLIN494</id>
+  <lat>52.512253</lat>
+  <lon>13.412133</lon>
+		<distance_km>0</distance_km>
+		<distance_mi>0</distance_mi>
+		</station>
+		</pws>
+		</nearby_weather_stations>
+	</location>
+	<forecast>
+		<txt_forecast>
+		<date>2:30 PM CEST</date>
+		<forecastdays>
+		<forecastday>
+		<period>0</period>
+		<icon>clear</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/clear.gif</icon_url>
+		<title>Sunday</title>
+		<fcttext><![CDATA[Mostly clear. Lows overnight in the low 40s.]]></fcttext>
+		<fcttext_metric><![CDATA[Clear. Low 4C.]]></fcttext_metric>
+		<pop>10</pop>
+		</forecastday>
+		<forecastday>
+		<period>1</period>
+		<icon>nt_clear</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/nt_clear.gif</icon_url>
+		<title>Sunday Night</title>
+		<fcttext><![CDATA[Mostly clear. Low near 40F. Winds WNW at 10 to 15 mph.]]></fcttext>
+		<fcttext_metric><![CDATA[A clear sky. Low 4C. Winds WNW at 15 to 25 km/h.]]></fcttext_metric>
+		<pop>10</pop>
+		</forecastday>
+		<forecastday>
+		<period>2</period>
+		<icon>clear</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/clear.gif</icon_url>
+		<title>Monday</title>
+		<fcttext><![CDATA[Except for a few afternoon clouds, mainly sunny. High 57F. Winds W at 10 to 20 mph.]]></fcttext>
+		<fcttext_metric><![CDATA[Sunny, along with a few afternoon clouds. High 14C. Winds WNW at 15 to 25 km/h.]]></fcttext_metric>
+		<pop>10</pop>
+		</forecastday>
+		<forecastday>
+		<period>3</period>
+		<icon>nt_chancerain</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/nt_chancerain.gif</icon_url>
+		<title>Monday Night</title>
+		<fcttext><![CDATA[Mostly cloudy with some showers late. Low 46F. Winds WSW at 5 to 10 mph. Chance of rain 40%.]]></fcttext>
+		<fcttext_metric><![CDATA[Increasing clouds with showers arriving sometime after midnight. Low 8C. Winds WSW at 10 to 15 km/h. Chance of rain 40%.]]></fcttext_metric>
+		<pop>40</pop>
+		</forecastday>
+		<forecastday>
+		<period>4</period>
+		<icon>chancerain</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/chancerain.gif</icon_url>
+		<title>Tuesday</title>
+		<fcttext><![CDATA[Cloudy early with showers for the afternoon hours. High 57F. Winds WSW at 10 to 15 mph. Chance of rain 50%.]]></fcttext>
+		<fcttext_metric><![CDATA[Cloudy with occasional showers. High 14C. Winds WSW at 15 to 25 km/h. Chance of rain 50%.]]></fcttext_metric>
+		<pop>50</pop>
+		</forecastday>
+		<forecastday>
+		<period>5</period>
+		<icon>nt_chancerain</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/nt_chancerain.gif</icon_url>
+		<title>Tuesday Night</title>
+		<fcttext><![CDATA[Rain showers early with overcast skies late. Low 48F. Winds W at 10 to 20 mph. Chance of rain 70%.]]></fcttext>
+		<fcttext_metric><![CDATA[Rain showers early with overcast skies late. Low 9C. Winds W at 15 to 30 km/h. Chance of rain 70%.]]></fcttext_metric>
+		<pop>70</pop>
+		</forecastday>
+		<forecastday>
+		<period>6</period>
+		<icon>mostlycloudy</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/mostlycloudy.gif</icon_url>
+		<title>Wednesday</title>
+		<fcttext><![CDATA[Partly cloudy skies in the morning will give way to cloudy skies during the afternoon. High 59F. Winds WSW at 10 to 15 mph.]]></fcttext>
+		<fcttext_metric><![CDATA[A mix of clouds and sun early, then becoming cloudy later in the day. High around 15C. Winds WSW at 15 to 25 km/h.]]></fcttext_metric>
+		<pop>20</pop>
+		</forecastday>
+		<forecastday>
+		<period>7</period>
+		<icon>nt_chancerain</icon>
+		<icon_url>http://icons.wxug.com/i/c/k/nt_chancerain.gif</icon_url>
+		<title>Wednesday Night</title>
+		<fcttext><![CDATA[A few showers early with overcast skies late. Low 53F. Winds SW at 10 to 15 mph. Chance of rain 30%.]]></fcttext>
+		<fcttext_metric><![CDATA[Cloudy. Low 12C. Winds SW at 15 to 25 km/h.]]></fcttext_metric>
+		<pop>30</pop>
+		</forecastday>
+		</forecastdays>
+		</txt_forecast>
+		<simpleforecast>
+		<forecastdays>
+		<forecastday>
+		<date>
+  <epoch>1507482000</epoch>
+  <pretty_short>7:00 PM CEST</pretty_short>
+  <pretty>7:00 PM CEST on October 08, 2017</pretty>
+  <day>8</day>
+  <month>10</month>
+  <year>2017</year>
+  <yday>280</yday>
+  <hour>19</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>October</monthname>
+  <monthname_short>Oct</monthname_short>
+  <weekday_short>Sun</weekday_short>
+  <weekday>Sunday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+					<period>1</period>
+					<high>
+						<fahrenheit>58</fahrenheit>
+						<celsius>14</celsius>
+					</high>
+					<low>
+						<fahrenheit>40</fahrenheit>
+						<celsius>4</celsius>
+					</low>
+					<conditions>Clear</conditions>
+					
+					<icon>clear</icon>
+					<icon_url>http://icons.wxug.com/i/c/k/clear.gif</icon_url>
+					<skyicon></skyicon>
+					<pop>10</pop>
+					<qpf_allday>
+						<in>0.00</in>
+						<mm>0</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in></in>
+						<mm></mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.00</in>
+						<mm>0</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_allday>
+					<snow_day>
+						<in></in>
+						<cm></cm>
+					</snow_day>
+					<snow_night>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>16</mph>
+						<kph>26</kph>
+						<dir></dir>
+						<degrees>0</degrees>
+					</maxwind>
+					<avewind>
+						<mph>2</mph>
+						<kph>4</kph>
+						<dir>SW</dir>
+						<degrees>216</degrees>
+					</avewind>
+					<avehumidity>73</avehumidity>
+					<maxhumidity>0</maxhumidity>
+					<minhumidity>0</minhumidity>
+				</forecastday>
+				
+				<forecastday>
+					<date>
+  <epoch>1507568400</epoch>
+  <pretty_short>7:00 PM CEST</pretty_short>
+  <pretty>7:00 PM CEST on October 09, 2017</pretty>
+  <day>9</day>
+  <month>10</month>
+  <year>2017</year>
+  <yday>281</yday>
+  <hour>19</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>October</monthname>
+  <monthname_short>Oct</monthname_short>
+  <weekday_short>Mon</weekday_short>
+  <weekday>Monday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+					<period>2</period>
+					<high>
+						<fahrenheit>57</fahrenheit>
+						<celsius>14</celsius>
+					</high>
+					<low>
+						<fahrenheit>46</fahrenheit>
+						<celsius>8</celsius>
+					</low>
+					<conditions>Clear</conditions>
+					
+					<icon>clear</icon>
+					<icon_url>http://icons.wxug.com/i/c/k/clear.gif</icon_url>
+					<skyicon></skyicon>
+					<pop>10</pop>
+					<qpf_allday>
+						<in>0.02</in>
+						<mm>1</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.00</in>
+						<mm>0</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.02</in>
+						<mm>1</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>20</mph>
+						<kph>32</kph>
+						<dir>W</dir>
+						<degrees>281</degrees>
+					</maxwind>
+					<avewind>
+						<mph>13</mph>
+						<kph>21</kph>
+						<dir>W</dir>
+						<degrees>281</degrees>
+					</avewind>
+					<avehumidity>73</avehumidity>
+					<maxhumidity>0</maxhumidity>
+					<minhumidity>0</minhumidity>
+				</forecastday>
+				
+				<forecastday>
+					<date>
+  <epoch>1507654800</epoch>
+  <pretty_short>7:00 PM CEST</pretty_short>
+  <pretty>7:00 PM CEST on October 10, 2017</pretty>
+  <day>10</day>
+  <month>10</month>
+  <year>2017</year>
+  <yday>282</yday>
+  <hour>19</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>October</monthname>
+  <monthname_short>Oct</monthname_short>
+  <weekday_short>Tue</weekday_short>
+  <weekday>Tuesday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+					<period>3</period>
+					<high>
+						<fahrenheit>57</fahrenheit>
+						<celsius>14</celsius>
+					</high>
+					<low>
+						<fahrenheit>48</fahrenheit>
+						<celsius>9</celsius>
+					</low>
+					<conditions>Chance of Rain</conditions>
+					
+					<icon>chancerain</icon>
+					<icon_url>http://icons.wxug.com/i/c/k/chancerain.gif</icon_url>
+					<skyicon></skyicon>
+					<pop>50</pop>
+					<qpf_allday>
+						<in>0.12</in>
+						<mm>3</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.06</in>
+						<mm>2</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.07</in>
+						<mm>2</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>15</mph>
+						<kph>24</kph>
+						<dir>WSW</dir>
+						<degrees>242</degrees>
+					</maxwind>
+					<avewind>
+						<mph>12</mph>
+						<kph>19</kph>
+						<dir>WSW</dir>
+						<degrees>242</degrees>
+					</avewind>
+					<avehumidity>92</avehumidity>
+					<maxhumidity>0</maxhumidity>
+					<minhumidity>0</minhumidity>
+				</forecastday>
+				
+				<forecastday>
+					<date>
+  <epoch>1507741200</epoch>
+  <pretty_short>7:00 PM CEST</pretty_short>
+  <pretty>7:00 PM CEST on October 11, 2017</pretty>
+  <day>11</day>
+  <month>10</month>
+  <year>2017</year>
+  <yday>283</yday>
+  <hour>19</hour>
+  <min>00</min>
+  <sec>0</sec>
+  <isdst>1</isdst>
+  <monthname>October</monthname>
+  <monthname_short>Oct</monthname_short>
+  <weekday_short>Wed</weekday_short>
+  <weekday>Wednesday</weekday>
+  <ampm>PM</ampm>
+  <tz_short>CEST</tz_short>
+  <tz_long>Europe/Berlin</tz_long>
+</date>
+					<period>4</period>
+					<high>
+						<fahrenheit>59</fahrenheit>
+						<celsius>15</celsius>
+					</high>
+					<low>
+						<fahrenheit>53</fahrenheit>
+						<celsius>12</celsius>
+					</low>
+					<conditions>Mostly Cloudy</conditions>
+					
+					<icon>mostlycloudy</icon>
+					<icon_url>http://icons.wxug.com/i/c/k/mostlycloudy.gif</icon_url>
+					<skyicon></skyicon>
+					<pop>20</pop>
+					<qpf_allday>
+						<in>0.01</in>
+						<mm>0</mm>
+					</qpf_allday>
+					<qpf_day>
+						<in>0.00</in>
+						<mm>0</mm>
+					</qpf_day>
+					<qpf_night>
+						<in>0.01</in>
+						<mm>0</mm>
+					</qpf_night>
+					<snow_allday>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_allday>
+					<snow_day>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_day>
+					<snow_night>
+						<in>0.0</in>
+						<cm>0.0</cm>
+					</snow_night>
+					<maxwind>
+						<mph>15</mph>
+						<kph>24</kph>
+						<dir>WSW</dir>
+						<degrees>254</degrees>
+					</maxwind>
+					<avewind>
+						<mph>11</mph>
+						<kph>18</kph>
+						<dir>WSW</dir>
+						<degrees>254</degrees>
+					</avewind>
+					<avehumidity>86</avehumidity>
+					<maxhumidity>0</maxhumidity>
+					<minhumidity>0</minhumidity>
+				</forecastday>
+				
+			</forecastdays>
+		</simpleforecast>
+	</forecast>
+
+	
+	
+		
+	
+
+    
+    
+    
+	
+  
+	
+	
+	
+	
+	
+    
+    
+
+
+    
+    
+    
+    
+</response>
+	
+

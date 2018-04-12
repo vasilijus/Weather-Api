@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+
+<!--[if lt IE 9]>
+<script src="http://pict.uws.ac.uk/~davison/dwt/wp/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+	<script type="text/javascript">
+		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/pict.uws.ac.uk\/~davison\/dwt\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+		!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;
+		if(!k||!k.fillText)return!1;
+		switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+	</script>
+	
+	<style type="text/css">
+		img.wp-smiley,	img.emoji {
+			display: inline !important;
+			border: none !important;
+			box-shadow: none !important;
+			height: 1em !important;
+			width: 1em !important;
+			margin: 0 .07em !important;
+			vertical-align: -0.1em !important;
+			background: none !important;
+			padding: 0 !important;
+		}
+		#position {
+			width: 500px;
+			margin-top:10%;
+			margin: auto auto;
+		}
+	</style>
+	<style>
+		#weather {font-family:sans-serif;}
+		#weather div {margin: 0.25em; }
+		#weather .day, #weather .icon, #weather .spacer, #weather #wind, #weather #humidity{display:block;}
+		#weather #now {width:10em;}
+		#weather .forecast{width:8em;text-align:center;}
+		#weather .icon{margin-left:auto;margin-right:auto;}
+		#weather img {margin-left:auto;margin-right:auto;}
+		#weather .forecast, #weather #location_date  {background-color: lavender; padding: 2px 2px 2px 2px; margin: 2px 2px 2px 2px; border-style: none}
+		#weather .forecast, #weather {float:left;}
+	</style>
+
+	<script type="text/javascript">
+		window._se_plugin_version = '8.1.9';
+	</script>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body">
+
+	<script src="http://code.jquery.com/jquery-1.8.2.min.js"></script>
+	<script src="weatherControl.js"></script>
+	
+	</script>
+
+	<div id="position">
+		<div id="weather">
+			<div id="location_date"></div>
+			<div id="day0" class="forecast">
+			  <span class="day"></span>
+					<span class="icon"></span>
+					<span class="temp high"></span>
+					|
+					<span class="temp low"></span>
+
+			</div>
+			<div id="day1" class="forecast">
+			  <span class="day"></span>
+					<span class="icon"></span>
+					<span class="temp high"></span>
+					|
+					<span class="temp low"></span>
+			</div>
+			<div id="day2" class="forecast">
+			  <span class="day"></span>
+					<span class="icon"></span>
+					<span class="temp high"></span>
+					|
+					<span class="temp low"></span>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
